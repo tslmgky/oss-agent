@@ -1,4 +1,4 @@
-"""tools.py - 박스오피스 정보를 가져오는 도구 모음"""
+week09/oss-week7-copy/tools.py"""tools.py - 박스오피스 정보를 가져오는 도구 모음"""
 import requests
 from secret import API_KEY
 
